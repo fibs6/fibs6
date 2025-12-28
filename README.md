@@ -2,9 +2,9 @@
 
 
  ## 💻 Software developer and Civil Computer Engineering student at Universidad Autónoma de Chile
- - 🌱 Currently building web applications with React and Postgresql
- - 🧐 I enjoy reading 📚 and juggling 🤹‍♂️
- - 🗣 Spanish 🇪🇸 | English 🇺🇸 | Learning Russian 🇷🇺
+ ### 🌱 Currently building web applications with React and Postgresql
+ ### 🧐 I enjoy reading 📚 and juggling 🤹‍♂️
+ ### 🗣 Spanish 🇪🇸 | English 🇺🇸 | Learning Russian 🇷🇺
 
 ## 🧰 Programming languages and Tools
 
