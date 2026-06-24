@@ -1,7 +1,7 @@
 # [🐏](https://www.e0.cl) Hi, I'm Felipe Castillo Muñoz</br>
 
 
- ## 💻 Software developer and Civil Computer Engineering student at Universidad Autónoma de Chile
+ ## 💻  Software developer and Civil Computer Engineer
  ### 🌱  Currently building web applications with React, Next.js and PostgreSQL
  ### 🧐  I enjoy reading 📚 and juggling 🤹‍♂️
  ### 🗣  Spanish 🇪🇸 | English 🇺🇸 | Learning Russian 🇷🇺
